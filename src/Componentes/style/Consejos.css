@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+.Texto-Con{
+    font-family: 'Russo One', sans-serif;
+    text-shadow: rgb(0, 255,255) 0px 0px 5px;
+}
+.Texto2-Con{
+    font-family: 'Russo One', sans-serif;
+}
+.Boton-Con{
+    box-shadow: rgb(0,255,255) 0px 0px 10px;
+}
+.boton-izq{
+    margin-left: auto;
+}
+.progreso{
+    width: 100%;
+}
+.nav-text{
+    text-align: center;
+}

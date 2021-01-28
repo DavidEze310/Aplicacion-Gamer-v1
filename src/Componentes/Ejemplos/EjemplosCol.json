@@ -1,0 +1,19 @@
+{
+    "EjemplosCol":[
+        {
+            "Juego":"Halo 3",
+            "Coleccionable":"Cráneos",
+            "Descripcion":"Los Cráneos de Halo 3 son, en efecto, cráneos humanos escondidos por los diferentes niveles del juego. Su peculiaridad y rareza no radica en lo intrincado de encontrarlos, sino en los efectos que causan. Cada uno cambia las reglas de la partida para convertirla en algo muy diferente. Por ejemplo, podías ver como salía confeti de los enemigos al volarles la cabeza, hacer que desapareciera tu HUD o incluso que los enemigos fueran mucho más fuertes."
+        },
+        {
+            "juego":"Fallout 3",
+            "Coleccionable":"Cabezón de Vault-Tec",
+            "Descripcion":"Lo más interesante de estas figuritas es que, además de ser un coleccionable escondido que te animaba a explorar cualquier parte de terreno, cumplían una función ornamental y de mejora. Podías llenar toda una estantería con ellos, pero además, mejorar las estadísticas de tu personaje al encontrarlos. Doble victoria para el jugador más valiente y explorador."
+        },
+        {
+            "juego":"Batman: Arkham Asylum",
+            "Coleccionable":"Secretos de Enigma",
+            "Descripcion":"Si se hace llamar Enigma es por algo. Este loco amante de los acertijos dejaba un enorme reguero de pistas por todo el Asilo de Arkham que te incitaban a perder horas y horas explorando para resolverlas todos y superar sus desafíos. Puede que la recompensa no fuera de lo más satisfactorio, pero todo el proceso de exploración e investigación era, simplemente, brillante. Sacaba el lado más detectivesco de Batman y, por ende, del jugador."
+        }
+    ]
+}

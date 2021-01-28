@@ -1,0 +1,16 @@
+body{
+    
+    background:url(../Imagenes/circuito-R.png) no-repeat;
+    background-color: black
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+.Texto{
+    font-family: 'Russo One', sans-serif;
+    margin-top: 250px;
+    text-align: center;
+    text-shadow: rgb(255, 0, 0) 0px 0px 10px;
+}
+.Boton1{
+    box-shadow: rgb(255, 0, 0) 0px 0px 10px;
+}

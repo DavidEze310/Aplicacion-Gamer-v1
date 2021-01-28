@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+.Texto-Col{
+    font-family: 'Russo One', sans-serif;
+    text-shadow: rgb(255, 255, 0) 0px 0px 7px;
+}
+.Texto2-Col{
+    font-family: 'Russo One', sans-serif;
+}
+.Boton-Col{
+    box-shadow: rgb(255, 255, 0) 0px 0px 10px;
+}
+.boton-izq{
+    margin-left: auto;
+}
+.progreso{
+    width: 100%;
+}
+.nav-text{
+    text-align: center;
+}
